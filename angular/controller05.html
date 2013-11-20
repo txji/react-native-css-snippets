@@ -1,0 +1,26 @@
+<!doctype html>
+<html ng-app="myApp">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="angular.min.js"></script>
+	<script>
+		var myApp = angular.module('myApp',[]);
+ 
+		myApp.controller('Yname', ['$scope', function($scope) {
+		    $scope.name='txji';
+		    $scope.setName=function(name){
+		    	$scope.name=name;
+		    }
+		}]);
+	</script>
+</head>
+<body>
+	<div ng-controller="Yname">
+		<input type="text" ng-model="aa" />
+		<input type="button" value="txji" ng-click="setName('txji')" />
+		<input type="button" value="Customer" ng-click="setName(aa)" />
+		您的名称是：{{ name }}.
+	</div>
+</body>
+</html>

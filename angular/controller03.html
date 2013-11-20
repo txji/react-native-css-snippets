@@ -1,0 +1,22 @@
+<!doctype html>
+<html ng-app="myApp">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="angular.min.js"></script>
+	<script>
+		var myApp = angular.module('myApp',[]);
+ 
+		myApp.controller('DoubleValue', ['$scope', function($scope) {
+		    $scope.double = function(value){
+		    	return value * 2;
+		    };
+		}]);
+	</script>
+</head>
+<body>
+	<div ng-controller="DoubleValue">
+		Two Times <input type="number" ng-model="n" />{{ double(n)|| 0 }}
+	</div>
+</body>
+</html>

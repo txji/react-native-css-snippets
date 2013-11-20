@@ -1,0 +1,28 @@
+<!doctype html>
+<html ng-app="myApp">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="angular.min.js"></script>
+	<script>
+		var myApp = angular.module('myApp',[]);
+ 
+		myApp.controller('channel', ['$scope', function($scope) {
+		    $scope.cha='携程首页';
+		    $scope.hotel=function(){
+		    	$scope.cha='酒店';
+		    };
+		    $scope.flight=function(){
+		    	$scope.cha='机票';
+		    };
+		}]);
+	</script>
+</head>
+<body>
+	<div ng-controller="channel">
+		<input type="button" value="酒店" ng-click="hotel()" />
+		<input type="button" value="机票" ng-click="flight()" />
+		您目前在{{ cha }}.
+	</div>
+</body>
+</html>
