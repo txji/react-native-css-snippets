@@ -1,21 +1,19 @@
 <!doctype html>
-<html ng-app>
+<html ng-app="myApp">
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
 	<script src="angular.min.js"></script>
 	<script>
-		function GreetingCtrl($scope){
-			$scope.greeting='Hello txji.'
-		}
-		function GreetingCtrl2($scope){
-			$scope.greeting='This is sub $scope.'
-		}
+		var myApp = angular.module('myApp',[]);
+ 
+		myApp.controller('GreetingCtrl', ['$scope', function($scope) {
+		    $scope.greeting = 'Hola!';
+		}]);
 	</script>
 </head>
 <body>
 	<div ng-controller="GreetingCtrl">
-		<div ng-controller="GreetingCtrl2">{{ greeting }}</div>
 		{{ greeting }}
 	</div>
 </body>
