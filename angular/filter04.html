@@ -1,0 +1,32 @@
+<!doctype html>
+<html ng-app="myApp">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="angular.min.js"></script>
+	<script>
+		var myApp=angular.module('myApp',[]);
+
+		myApp.filter('reverse',function(){
+			return function(input,uppercase){
+				var _out='';
+				_out=input.split('').reverse().join('');
+				uppercase?_out=_out.toUpperCase():'';
+				return _out;
+			}
+		});
+
+		myApp.controller('Ctrl',['$scope',function($scope){
+			$scope.greeting='default';
+		}]);
+	</script>
+</head>
+<body>
+	<div ng-controller="Ctrl">
+      <input ng-model="greeting" type="text"><br>
+      No filter: {{greeting}}<br>
+      Reverse: {{greeting|reverse}}<br>
+      Reverse + uppercase: {{greeting|reverse:true}}<br>
+    </div>
+</body>
+</html>
