@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+flexDirection: 'column',
+]]></content>
+    <tabTrigger>fdc</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: flexDirection column</description>
+</snippet>

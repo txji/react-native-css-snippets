@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+marginVertical: $1,
+]]></content>
+    <tabTrigger>mv</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: marginVertical</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+paddingBottom: $1,
+]]></content>
+    <tabTrigger>pdb</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: paddingBottom</description>
+</snippet>

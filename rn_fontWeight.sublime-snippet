@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+fontWeight: $1,
+]]></content>
+    <tabTrigger>fw</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: fontWeight</description>
+</snippet>

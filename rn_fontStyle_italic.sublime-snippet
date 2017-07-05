@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+fontStyle: 'italic',
+]]></content>
+    <tabTrigger>fsi</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: fontStyle: 'italic'</description>
+</snippet>

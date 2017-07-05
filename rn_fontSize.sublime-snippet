@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+fontSize: $1,
+]]></content>
+    <tabTrigger>fs</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: fontSize</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+backgroundColor: $1,
+]]></content>
+    <tabTrigger>bgc</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: backgroundColor</description>
+</snippet>

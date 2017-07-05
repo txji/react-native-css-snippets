@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+overflow: 'visible',
+]]></content>
+    <tabTrigger>ofv</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: overflow visible</description>
+</snippet>

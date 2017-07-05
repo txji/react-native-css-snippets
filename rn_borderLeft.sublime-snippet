@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+borderLeftWidth: $1,
+borderLeftColor: '${2}',
+borderStyle: '${3:solid}',
+]]></content>
+    <tabTrigger>bdl</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: border left</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+marginLeft: $1,
+]]></content>
+    <tabTrigger>ml</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: marginLeft</description>
+</snippet>

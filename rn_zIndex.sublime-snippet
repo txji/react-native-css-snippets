@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+zIndex: $1,
+]]></content>
+    <tabTrigger>zi</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: zIndex</description>
+</snippet>

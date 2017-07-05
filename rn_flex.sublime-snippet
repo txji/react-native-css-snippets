@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+flex: ${1:1},
+]]></content>
+    <tabTrigger>f</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: flex</description>
+</snippet>

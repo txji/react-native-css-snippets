@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+alignItems: 'stretch'
+]]></content>
+    <tabTrigger>ais</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: alignItems stretch</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+maxWidth: $1,
+]]></content>
+    <tabTrigger>maxw</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: maxWidth</description>
+</snippet>

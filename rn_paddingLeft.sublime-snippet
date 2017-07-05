@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+paddingLeft: $1,
+]]></content>
+    <tabTrigger>pdl</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: paddingLeft</description>
+</snippet>

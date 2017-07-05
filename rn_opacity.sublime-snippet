@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+opacity: $1,
+]]></content>
+    <tabTrigger>o</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: opacity</description>
+</snippet>

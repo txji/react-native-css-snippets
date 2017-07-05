@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+flexWrap: 'nowrap',
+]]></content>
+    <tabTrigger>fwnw</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: flexWrap nowrap</description>
+</snippet>

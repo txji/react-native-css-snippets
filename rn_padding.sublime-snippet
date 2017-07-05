@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+padding: $1,
+]]></content>
+    <tabTrigger>pd</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: padding</description>
+</snippet>

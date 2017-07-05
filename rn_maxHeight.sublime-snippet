@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+maxHeight: $1,
+]]></content>
+    <tabTrigger>maxh</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: maxHeight</description>
+</snippet>

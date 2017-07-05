@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+textDecorationLine: '${1:none}',
+]]></content>
+    <tabTrigger>tdl</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: textDecorationLine: 'none'</description>
+</snippet>

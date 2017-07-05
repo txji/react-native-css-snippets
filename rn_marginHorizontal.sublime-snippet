@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+marginHorizontal: $1,
+]]></content>
+    <tabTrigger>mh</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: marginHorizontal</description>
+</snippet>

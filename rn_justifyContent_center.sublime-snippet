@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+justifyContent: 'center',
+]]></content>
+    <tabTrigger>jcc</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: justifyContent center</description>
+</snippet>

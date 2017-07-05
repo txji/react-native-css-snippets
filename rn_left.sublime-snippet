@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+left: $1,
+]]></content>
+    <tabTrigger>l</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: left</description>
+</snippet>

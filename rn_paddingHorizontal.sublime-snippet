@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+paddingHorizontal: $1,
+]]></content>
+    <tabTrigger>pdh</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: paddingHorizontal</description>
+</snippet>

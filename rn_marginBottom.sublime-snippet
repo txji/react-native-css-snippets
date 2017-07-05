@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+marginBottom: $1,
+]]></content>
+    <tabTrigger>mb</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: marginBottom</description>
+</snippet>

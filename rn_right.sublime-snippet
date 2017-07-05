@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+right: $1,
+]]></content>
+    <tabTrigger>r</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: right</description>
+</snippet>

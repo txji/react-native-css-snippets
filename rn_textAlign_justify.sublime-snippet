@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+textAlign: 'justify',
+]]></content>
+    <tabTrigger>taj</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: textAlign: 'justify'</description>
+</snippet>

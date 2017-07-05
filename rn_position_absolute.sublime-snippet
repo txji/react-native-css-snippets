@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+position: 'absolute',
+]]></content>
+    <tabTrigger>pa</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: position absolute</description>
+</snippet>

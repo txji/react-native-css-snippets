@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+paddingVertical: $1,
+]]></content>
+    <tabTrigger>pdv</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: paddingVertical</description>
+</snippet>

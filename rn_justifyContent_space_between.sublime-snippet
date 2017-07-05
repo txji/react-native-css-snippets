@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+justifyContent: 'space-between',
+]]></content>
+    <tabTrigger>jcsb</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: justifyContent space-between</description>
+</snippet>

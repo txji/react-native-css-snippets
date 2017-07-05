@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+fontStyle: 'normal',
+]]></content>
+    <tabTrigger>fsn</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: fontStyle: 'normal'</description>
+</snippet>

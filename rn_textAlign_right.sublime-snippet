@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+textAlign: 'right',
+]]></content>
+    <tabTrigger>tar</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: textAlign: 'right'</description>
+</snippet>

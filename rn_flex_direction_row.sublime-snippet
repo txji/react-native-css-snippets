@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+flexDirection: 'row',
+]]></content>
+    <tabTrigger>fdr</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: flexDirection row</description>
+</snippet>

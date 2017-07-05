@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+overflow: 'scroll',
+]]></content>
+    <tabTrigger>ofs</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: overflow scroll</description>
+</snippet>

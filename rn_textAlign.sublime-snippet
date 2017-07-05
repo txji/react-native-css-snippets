@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+textAlign: '${1:auto}',
+]]></content>
+    <tabTrigger>ta</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: textAlign: 'auto'</description>
+</snippet>

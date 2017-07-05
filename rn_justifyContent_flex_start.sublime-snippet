@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+justifyContent: 'flex-start',
+]]></content>
+    <tabTrigger>jcfs</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: justifyContent flex-start</description>
+</snippet>

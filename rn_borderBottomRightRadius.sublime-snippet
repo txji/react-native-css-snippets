@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+borderBottomRightRadius: $1,
+]]></content>
+    <tabTrigger>bdbrr</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: borderBottomRightRadius</description>
+</snippet>

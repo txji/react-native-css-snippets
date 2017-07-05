@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+paddingRight: $1,
+]]></content>
+    <tabTrigger>pdr</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: paddingRight</description>
+</snippet>

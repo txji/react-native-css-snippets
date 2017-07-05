@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+fontWeight: 'bold',
+]]></content>
+    <tabTrigger>fwb</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: fontWeight: 'bold'</description>
+</snippet>

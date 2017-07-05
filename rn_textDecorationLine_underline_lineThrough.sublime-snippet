@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+textDecorationLine: 'underline line-through',
+]]></content>
+    <tabTrigger>tdlul</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: textDecorationLine: 'underline line-through'</description>
+</snippet>

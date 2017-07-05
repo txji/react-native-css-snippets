@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+flexDirection: 'row-reverse',
+]]></content>
+    <tabTrigger>fdrr</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: flexDirection row-reverse</description>
+</snippet>

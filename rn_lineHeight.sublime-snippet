@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lineHeight: $1,
+]]></content>
+    <tabTrigger>lh</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: lineHeight</description>
+</snippet>

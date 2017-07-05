@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+alignItems: 'flex-start'
+]]></content>
+    <tabTrigger>aifs</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: alignItems flex-start</description>
+</snippet>

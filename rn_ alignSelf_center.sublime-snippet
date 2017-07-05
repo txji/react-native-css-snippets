@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+alignSelf: '${1:center}'
+]]></content>
+    <tabTrigger>asc</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: alignSelf center</description>
+</snippet>

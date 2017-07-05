@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+color: 'hsl($1, $2%, $3%)',
+]]></content>
+    <tabTrigger>hsl</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: color: hsl(..., ..., ...)</description>
+</snippet>

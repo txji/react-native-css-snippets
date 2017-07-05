@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+bottom: $1,
+]]></content>
+    <tabTrigger>b</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: bottom</description>
+</snippet>

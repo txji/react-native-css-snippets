@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+minHeight: $1,
+]]></content>
+    <tabTrigger>minh</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: minHeight</description>
+</snippet>

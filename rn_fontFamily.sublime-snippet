@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+fontFamily: $1,
+]]></content>
+    <tabTrigger>ff</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: fontFamily</description>
+</snippet>

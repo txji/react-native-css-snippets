@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+color: '$1',
+]]></content>
+    <tabTrigger>cl</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: color</description>
+</snippet>

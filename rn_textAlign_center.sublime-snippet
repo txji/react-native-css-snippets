@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+textAlign: 'center',
+]]></content>
+    <tabTrigger>tac</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: textAlign: 'center'</description>
+</snippet>

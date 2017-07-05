@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+height: $1,
+]]></content>
+    <tabTrigger>h</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Css: height</description>
+</snippet>
