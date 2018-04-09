@@ -30,8 +30,8 @@
 | `rgb→`   | color: rgb() |
 | `rgba→`   | color: rgba() |
 | `f→`   | flex: 1 |
-| `fdcr→`   | flexDirection: 'cloumn-reverse' |
-| `fdc→`   | flexDirection: 'cloumn' |
+| `fdcr→`   | flexDirection: 'column-reverse' |
+| `fdc→`   | flexDirection: 'column' |
 | `fdrr→`   | flexDirection: 'row-reverse' |
 | `fdr→`   | flexDirection: 'row' |
 | `fww→`   | flexWrap: 'wrap' |
